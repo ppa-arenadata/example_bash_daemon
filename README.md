@@ -1,0 +1,1 @@
+# example_bash_daemon
